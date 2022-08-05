@@ -1,0 +1,29 @@
+
+        body {
+	margin: 0 15%;
+	font-size: 20px;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	margin-top: 1.5em;
+}
+ 
+h1 {
+	font-size: 32px;
+}
+
+table  {
+	border: 1px solid black;
+	text-align: center;
+}
+figcaption {
+	font-style: italic;;
+}
+figure {
+	float: right;
+	padding: 1%;
+	text-align: right;
+}
+caption { 
+	margin-bottom: 0.5em;
+}
